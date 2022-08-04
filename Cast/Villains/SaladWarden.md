@@ -2,7 +2,7 @@
 
 Coming from the dark peaks of Carpati Mountains, he is one of the most feared entities by the children. On the constant search for new pray, he will instantly replace  any sweets he sees with leaves of salad, destroying the thrill of eating unhealthy food. Since his brith, no kid has seen joy, no smiles from a bar of chocolate have been made, every day, the world getting closer and closer to its end.
 
-![CookieLover image](/Images/saladMaker.jpg)
+![SaladMaker image](/Images/saladMaker.jpg)
 
 ### Powers and weaknesses
 
