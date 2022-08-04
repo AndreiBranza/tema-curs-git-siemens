@@ -1,6 +1,6 @@
 # The Lucky Shot
 
-![poster]( )
+![poster](./../Images/luckyShot.jpg)
 
 -Ms Everyshot's origin story-
 
