@@ -6,5 +6,5 @@
 
 ## Characters
 
-- [Ms Everyshot](./../Cast/Heroes/MsEveryshot.md)
+- [Ms. Everyshot](./../Cast/Heroes/MsEveryshot.md)
 - [villain]
