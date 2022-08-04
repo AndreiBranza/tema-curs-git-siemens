@@ -9,15 +9,15 @@ Be the hero in your own story!
 ### The heroes
 
 - [ShadowMan](./Cast/Heroes/ShadowMan.md)
-- Hero 2
-- Hero 3
+- [CookieLover](./Cast/Heroes/CookieLover.md)
+- [MsEveryshot](./Cast/Heroes/MsEveryshot.md)
 - Hero 4
 - Hero 5
 - Hero 6
 
 ### The villains
 
-- Villains 1
+- [LightWoman](./Cast/Villains/LightWoman.md)
 - Villains 2
 - Villains 3
 - Villains 4
