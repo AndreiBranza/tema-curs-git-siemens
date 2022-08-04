@@ -20,7 +20,7 @@ Be the hero in your own story!
 
 - [LightWoman](./Cast/Villains/LightWoman.md)
 - [Maus](./Cast/Villains/Maus.md)
-- Villains 3
+- [Phone Ranger](./Cast/Villains/PhoneRanger.md)
 - Villains 4
 - Villains 5
 - Villains 6
