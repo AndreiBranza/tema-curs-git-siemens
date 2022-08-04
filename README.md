@@ -1,10 +1,19 @@
 # Gusti's Cinematic Universe - Grupa 7
 
-Be the hero on your own story! 
+Be the hero on your own story!
 
 ## Movies
 
-
 ## Cast
+
 ### The heroes
+
+- Hero 1
+- Hero 2
+- Hero 3
+
 ### The villains
+
+- Villains 1
+- Villains 2
+- Villains 3
