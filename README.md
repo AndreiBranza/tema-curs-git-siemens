@@ -8,7 +8,7 @@ Be the hero on your own story!
 
 ### The heroes
 
-- [ShadowMan](./Cast/Heroes/Shadowman.md)
+- [ShadowMan](./Cast/Heroes/ShadowMan.md)
 - Hero 2
 - Hero 3
 
