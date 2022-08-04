@@ -1,6 +1,6 @@
 # Gusti's Cinematic Universe - Grupa 7
 
-Be the hero on your own story!
+Be the hero in your own story!
 
 ## Movies
 
