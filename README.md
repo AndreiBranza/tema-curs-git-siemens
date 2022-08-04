@@ -5,6 +5,7 @@ Be the hero in your own story!
 ## Movies
 
 - [The eternal battle](./Movies/EternalBattle.md)
+- [The Lucky Shot](./Movies/TheLuckyShot.md)
 
 ## Cast
 
