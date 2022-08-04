@@ -7,4 +7,6 @@ ShadowMan is a hero born in Cocorăștii Colț, Romania. He can cast a small sha
 ### Powers and weaknesses
 
     ➕ Casts shadow
+    ➕ Very positive personality
     ➖ Light makes shadow disappear
+    ➖ Easily discouraged
