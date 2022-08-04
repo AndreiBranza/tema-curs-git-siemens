@@ -1,2 +1,2 @@
-# tema-curs-git-siemens
+# Gusti's Cinematic Universe
 Grupa 7
