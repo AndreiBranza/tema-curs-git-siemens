@@ -8,7 +8,7 @@ He decided to use it against the authorities in his robberies.
 
 ### Powers and weaknesses
 
-    ➕ 
-    ➕ 
-    ➖ 
-    ➖ 
+    ➕ Knows how telecommunication lines work 
+    ➕ Can easily intercept police calls
+    ➖ He doesn't have a driver's license, so he uses a bike when he goes on a robbery.
+    ➖ At the first robbery he accidentally made his phone number public and the police found out his identity. 
