@@ -4,7 +4,7 @@ Ben Dover was a telephone repairman who was sent to fix a phone that, unknown to
 They left some alien technology in the device and he found it could be used to tap into any communications technology. 
 He decided to use it against the authorities in his robberies.
 
-![Ms Everyshot](/Images/msEveryshot.jpg)
+![Ms Everyshot](/Images/phoneRanger.png)
 
 ### Powers and weaknesses
 
