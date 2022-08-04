@@ -13,7 +13,7 @@ Be the hero in your own story!
 
 - [ShadowMan](./Cast/Heroes/ShadowMan.md)
 - [CookieLover](./Cast/Heroes/CookieLover.md)
-- [MsEveryshot](./Cast/Heroes/MsEveryshot.md)
+- [Ms. Everyshot](./Cast/Heroes/MsEveryshot.md)
 - [Tanya](./Cast/Heroes/Tanya.md)
 - Hero 5
 - Hero 6
