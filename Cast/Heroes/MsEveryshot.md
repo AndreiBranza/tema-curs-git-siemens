@@ -7,6 +7,7 @@ Her best friends are the bow and arrows, but not the targets, which he misses.
 
 ### Powers and weaknesses
 
-    ➕ Powerful bow
-    ➕ Lucky
+    ➕ Powerful bow that scares the enemies
+    ➕ Several types of arrows
     ➖ Misses almost all the shots 
+    ➖ She's not good at public speaking 
