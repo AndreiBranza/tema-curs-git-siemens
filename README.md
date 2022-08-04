@@ -18,7 +18,7 @@ Be the hero in your own story!
 ### The villains
 
 - [LightWoman](./Cast/Villains/LightWoman.md)
-- Villains 2
+- [Maus](./Cast/Heroes/Maus.md)
 - Villains 3
 - Villains 4
 - Villains 5
