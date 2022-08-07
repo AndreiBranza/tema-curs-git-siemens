@@ -2,7 +2,7 @@
 
 His name comes from a combination of the words "hit" and "wall" beacuse this hero is able to walk through walls, but only 50% of the time.
 
-![HitAll](/Images/HitAll.png)
+![HitAll](/Images/HitAll.jpg)
 
 ### Powers and weaknesses
 
