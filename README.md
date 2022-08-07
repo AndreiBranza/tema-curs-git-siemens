@@ -15,7 +15,7 @@ Be the hero in your own story!
 - [CookieLover](./Cast/Heroes/CookieLover.md)
 - [Ms. Everyshot](./Cast/Heroes/MsEveryshot.md)
 - [Tanya](./Cast/Heroes/Tanya.md)
-- Hero 5
+- [HitAll](./Cast/Heroes/HitAll.md)
 - Hero 6
 
 ### The villains
