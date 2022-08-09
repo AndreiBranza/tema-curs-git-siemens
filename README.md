@@ -16,7 +16,7 @@ Be the hero in your own story!
 - [Ms. Everyshot](./Cast/Heroes/MsEveryshot.md)
 - [Tanya](./Cast/Heroes/Tanya.md)
 - [HitAll](./Cast/Heroes/HitAll.md)
-- Hero 6
+- [Telequeenesis](./Cast/Heroes/Telequeenesis.md)
 
 ### The villains
 
