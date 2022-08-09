@@ -5,7 +5,7 @@ High school queen by day, telekinesis queen by night.
 Will she be able to face LazerMan without falling in love with him? Stay tuned to find out!!
 
 
-![Telequeenesis]](/Images/telequeenesis.jpg)
+![Telequeenesis](/Images/telequeenesis.jpg)
 
 ### Powers and weaknesses
 
