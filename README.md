@@ -26,3 +26,13 @@ Be the hero in your own story!
 - [SaladWarden](./Cast/Villains/SaladWarden.md)
 - [Inviseeble](./Cast/Villains/Inviseeble.md)
 - Villains 6
+
+## Directors
+
+- Andrei Branza
+- Maria Stefan
+- Medeea Florescu
+- Mihnea Lopataru
+- Sergiu Mihai Maier
+- Teodor Andrei Cristea
+
