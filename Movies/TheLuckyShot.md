@@ -6,4 +6,4 @@ February 2017. On her way home from school, Evelina sadly remembers how her clas
 ## Characters
 
 - [Ms. Everyshot](./../Cast/Heroes/MsEveryshot.md)
-- [Phone Ranger](./../Cast/Heroes/PhoneRanger.md)
+- [Phone Ranger](./../Cast/Villains/PhoneRanger.md)
