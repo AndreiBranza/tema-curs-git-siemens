@@ -29,7 +29,7 @@ Be the hero in your own story!
 - [PhoneRanger](./Cast/Villains/PhoneRanger.md)
 - [SaladWarden](./Cast/Villains/SaladWarden.md)
 - [Inviseeble](./Cast/Villains/Inviseeble.md)
-- Villains 6
+- [Olmas](./Cast/Villains/Olmas.md)
 
 ## Directors
 
