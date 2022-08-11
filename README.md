@@ -9,7 +9,7 @@ Be the hero in your own story!
 - [Movie 3](./Movies/EternalBattle.md)
 - [Movie 4](./Movies/EternalBattle.md)
 - [Movie 5](./Movies/EternalBattle.md)
-- [Movie 6](./Movies/EternalBattle.md)
+- [When Telequeenesis Met Olmas](./Movies/WhenTelequeenesisMetOlmas.md)
 
 ## Cast
 
