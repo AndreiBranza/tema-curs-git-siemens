@@ -1,4 +1,4 @@
-# DayAndNight - a tale of lost love and found powers
+# DayAndNight - A Tale Of Lost Love And Found Powers
 
 ![poster](./../Images/DayAndNightMoviePoster.jpg)
 
