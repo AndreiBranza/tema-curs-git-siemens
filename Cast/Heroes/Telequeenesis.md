@@ -5,7 +5,7 @@ High school queen by day, telekinesis queen by night.
 Will she be able to face Olmas without falling in love with him? Stay tuned to find out!!
 
 
-![Telequeenesis](/Images/telequeenesis.jpg)
+![Telequeenesis](/Images/telequeenisis.jpg)
 
 ### Powers and weaknesses
 
