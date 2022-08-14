@@ -2,7 +2,7 @@
 
 ![poster](./../Images/EternalBattle.jpg)
 
--- Movie --
+After Tanya has escaped from the prison of souls she is thirsty for revenge and knows that only Maus' defeat will bring her peace of mind, but also that of the other poor souls lost in his lantern.
 
 ## Characters
 
