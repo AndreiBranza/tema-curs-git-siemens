@@ -7,4 +7,4 @@ In a world were every kid was enjoying their cookies, drinking milk and having f
 ## Characters
 
 - [ShadowMan](./../Cast/Heroes/CookieLover.md)
-- [LightWoman](./../Cast/Villains/SaladWarden.md)
+- [SaladWarden](./../Cast/Villains/SaladWarden.md)
