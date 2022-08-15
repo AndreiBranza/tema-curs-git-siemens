@@ -8,5 +8,7 @@ A smelly breath or easily discouraged personality?
 Only nobody will tell.  
 They are: **SHADOW MAN** and **LIGHT WOMAN** *laser sounds* *action movie explosions*
 
+## Characters
+
 - [ShadowMan](./../Cast/Heroes/ShadowMan.md)
 - [LightWoman](./../Cast/Villains/LightWoman.md)
